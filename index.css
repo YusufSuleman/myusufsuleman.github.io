@@ -6,8 +6,17 @@ body {
 #topbar {
   position: sticky;
   padding: 0.3% 37.8%;
+  float: left;
+  display: inline;
 }
 
 #topbar-list {
   list-style-type: none;
+  background-color: white;
+  text-decoration: none;
+  border-color: black;
+  box-shadow: 1px 1px;
+
+#title {
+  padding: 0.4% 40%
 }
